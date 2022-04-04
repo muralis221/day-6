@@ -1,0 +1,28 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+h1{
+    font-size: 48px;
+    color: #2e7ad3;
+    text-align: center;
+}
+h2{
+    font-size: 32px;
+    color: #104c90;
+}
+p{
+    font-size: 16px;
+}
+a{
+    color: #ff8000;
+}
+.box{
+    background-color: #f1f1f1;
+    margin: 0 auto;
+    width: 500px ;
+    padding: 20px;
+}
+.image{
+    width: 100%;
+}
